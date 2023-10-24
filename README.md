@@ -5,9 +5,9 @@
 
 - 🌱 Currently learning **Blockchain Core, ZK**
 
-- 📝 Writing articles on [https://medium.com/@organmo](https://medium.com/@organmo)
+- 📝 Writing articles on [Medium](https://medium.com/@organmo)
 
-- 📫 How to reach me **seungmin971@gmail.com**
+- 📫 Reach me through **seungmin971@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
