@@ -21,7 +21,15 @@
 ## Projects:
 <details><summary>Seamless - Digital Identity Hackathon</summary>
 <div markdown="1">
-1st placed project at Digital Identity Hackathon, hosted by [Encode club](https://www.encode.club/) and [Onyx by J.P.Morgan](https://www.jpmorgan.com/onyx/index). With social login, users can easily generate EOA and contract wallet, create and sign verifiable credentials, and mint and send NFTs in batch. Won a few more tracks on Visa, zkSync, Biconomy, and Magic.
+<ul>
+  <li>
+    Project at Digital Identity Hackathon, hosted by 
+    <a href="https://www.encode.club/">Encode club</a> and <a href="https://www.jpmorgan.com/onyx/index">Onyx by J.P.Morgan</a>. With social login, users can easily generate EOA and contract wallet, create and sign verifiable credentials, and mint and send NFTs in batch. 
+    Won 
+  </li>
+  <li> 
+    Won 1st place on overall hackathon, and a few more prizes on Visa, zkSync, Biconomy, and Magic track (<a href="https://twitter.com/StackDigest/status/1720648518451491144">Link</a>).
+  </li>
+</ul>
 </div></details>
-
 
