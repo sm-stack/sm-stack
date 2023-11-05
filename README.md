@@ -25,7 +25,7 @@
   <li>
     Project at Digital Identity Hackathon, hosted by 
     <a href="https://www.encode.club/">Encode club</a> and <a href="https://www.jpmorgan.com/onyx/index">Onyx by J.P.Morgan</a>. With social login, users can easily generate EOA and contract wallet, create and sign verifiable credentials, and mint and send NFTs in batch. 
-    Won 
+    Used Magic SDK, Onyx SSI, Biconomy SDK, and zkSync native account abstraction features.
   </li>
   <li> 
     Won 1st place on overall hackathon, and a few more prizes on Visa, zkSync, Biconomy, and Magic track (<a href="https://twitter.com/StackDigest/status/1720648518451491144">Link</a>).
