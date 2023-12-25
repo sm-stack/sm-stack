@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seungmin Jeon</h1>
-<h3 align="center">Software Engineer / Research from South Korea</h3>
+<h3 align="center">Software Engineer / Researcher from South Korea</h3>
 
 - 🔭 Interested in **Blockchain, Web3 & Smart Contract**
 
