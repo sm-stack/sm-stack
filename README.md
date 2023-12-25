@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seungmin Jeon</h1>
-<h3 align="center">Software Engineer from South Korea</h3>
+<h3 align="center">Software Engineer / Research from South Korea</h3>
 
 - 🔭 Interested in **Blockchain, Web3 & Smart Contract**
 
@@ -11,8 +11,8 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/@organ_mo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@organ_mo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/seungmin-jeon-4ab159171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seungmin" height="30" width="40" /></a>
+<a href="https://twitter.com/@organ_mo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@organ_mo" height="21" width="28" /></a>
+<a href="https://linkedin.com/in/seungmin-jeon-4ab159171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seungmin" height="21" width="28" /></a>
 </p>
 
 ## 💻 Tech Stack:
@@ -29,6 +29,18 @@
   </li>
   <li> 
     Won 1st place on overall hackathon, and a few more prizes on Visa, zkSync, Biconomy, and Magic track (<a href="https://twitter.com/StackDigest/status/1720648518451491144">Link</a>).
+  </li>
+</ul>
+</div></details>
+<details><summary>Shylock Finance - Chainlink Constellation Hackathon</summary>
+<div markdown="1">
+<ul>
+  <li>
+    Project at <a href="https://chain.link/hackathon">Chainlink Constellation hackathon</a>. Users can borrow assets in undercollateralized ratio with their DAO participation scores. 
+    Shylock Finance has its own trustless score calculation logic powered by Chainlink functions and The Graph, along with multichain support by CCIP.
+  </li>
+  <li> 
+    Selected as Chainlink Top Quality Projects, and won 2nd place at The Graph track.
   </li>
 </ul>
 </div></details>
