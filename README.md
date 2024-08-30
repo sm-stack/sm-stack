@@ -3,7 +3,7 @@
 
 - 🔭 Interested in **Blockchain, Web3 & Smart Contract**
 
-- 🌱 Currently diving into **Account Abstraction, Blockchain Core, ZK**
+- 🌱 Currently diving into **Account Abstraction, Blockchain Core, Layer 2**
 
 - 📝 Writing articles on [Medium](https://medium.com/@organmo)
 
